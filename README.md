@@ -10,7 +10,6 @@ _**Este proyecto es basicamente un despliegue de mensajes con animacion **_
 
 
 #Proyecto 2
-
 **This is bold text**
 
 
