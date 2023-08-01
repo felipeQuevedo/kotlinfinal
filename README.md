@@ -24,12 +24,10 @@ _**Este proyecto trata de temas en Kotlin con JetPack  Compose**_
 #Proyecto 3
 
 
-**This is bold text**
+**Este proyecto nos enseña como colocar estados en Jetpack compose **
 
-
-_This text is italicized_
-
-
-**This is bold text**#
+<picture>
+  <img alt="Imagen^^." src="[https://developer.android.com/static/codelabs/jetpack-compose-basics/img/bb6d7e193c5aa1ab_960.png?hl=es-419](https://developer.android.com/static/codelabs/jetpack-compose-basics/img/bb6d7e193c5aa1ab_960.png?hl=es-419)">
+</picture>
 
 
