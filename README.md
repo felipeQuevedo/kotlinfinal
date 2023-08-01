@@ -8,7 +8,7 @@ _**Este proyecto es basicamente un despliegue de mensajes con animacion **_
 
 
 <picture>
-  <img alt="Imagen^^." src="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://developer.android.com/static/codelabs/jetpack-compose-basics/img/8d24a786bfe1a8f2.gif?hl=es-419)">
+  <img alt="Imagen^^." src="[https://developer.android.com/static/codelabs/jetpack-compose-basics/img/bb6d7e193c5aa1ab_960.png?hl=es-419](https://developer.android.com/static/codelabs/jetpack-compose-basics/img/bb6d7e193c5aa1ab_960.png?hl=es-419)">
 </picture>
 
 
