@@ -5,7 +5,11 @@ _**En general este ReadMe es basicamente una exposicion de los codigos que he he
 
 
 _**Este proyecto es basicamente un despliegue de mensajes con animacion **_
+
+
 (https://developer.android.com/static/codelabs/jetpack-compose-basics/img/8d24a786bfe1a8f2.gif?hl=es-419)
+
+
 **This is bold text**
 
 
