@@ -7,7 +7,9 @@ _**En general este ReadMe es basicamente una exposicion de los codigos que he he
 _**Este proyecto es basicamente un despliegue de mensajes con animacion **_
 
 
-(https://developer.android.com/static/codelabs/jetpack-compose-basics/img/8d24a786bfe1a8f2.gif?hl=es-419)
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://developer.android.com/static/codelabs/jetpack-compose-basics/img/8d24a786bfe1a8f2.gif?hl=es-419)">
+</picture>
 
 
 **This is bold text**
